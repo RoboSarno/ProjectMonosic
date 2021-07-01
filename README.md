@@ -46,3 +46,5 @@ Some titles may not transfer successfully due to copyright issues.<br/>
 ```
 The final interpretation of Monosic is owned by the Group.
 ```
+
+Can be viewed at https://monosic-app.herokuapp.com/ 
